@@ -1,0 +1,3 @@
+<?php
+echo "JDDJR PROJECT ROOT IS WORKING!";
+?>
